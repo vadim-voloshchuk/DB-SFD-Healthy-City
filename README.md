@@ -43,11 +43,14 @@ ML-->Регрессия;
 ### Основной функционал
 #### Используемые метрики для анализа
 ### Список открытых источников
-Геоданные:
+- Геоданные:
   - [OSM(Open Street Map)](https://www.openstreetmap.org/#map=3/69.62/-74.90)
   - [Gismeteo](https://www.gismeteo.ru/api/)
-Новостные ресурсы:
-- [ВК API](https://vk.com/feed)
+- Новостные ресурсы:
+  - [ВК API](https://vk.com/feed)
+  - [РИА](https://ria.ru/search/?query)
+  - [РБК](https://www.rbc.ru/tags/?tag=%D0%A0%D0%91%D0%9A)
+  - [RegRu](https://rg.ru/tema/ekonomika)
 ### Использованные средства разработки
 #### IDE/IDLE
 - ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
