@@ -68,7 +68,7 @@ ML-->Регрессия;
 ![grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ### Ссылки на исходный код системных компонент
 - База данных
-- Серверная часть
+- [Серверная часть](https://github.com/iamelnik29/Healthy-City-Back/tree/main)
 - Front-end web часть
 - Front-end mobile часть
 - [UI/UX дизайн](https://www.figma.com/file/T0441FbXWMXjQ24HL5ZhTt/MLS(DBSFD)?type=design&node-id=0%3A1&mode=design&t=Ixji2eeGdy7GpLNj-1)
