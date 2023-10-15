@@ -35,10 +35,6 @@ ML-->Регрессия;
 Классификация-->Анализ_гео-данных;
 Регрессия-->Анализ_гео-данных;
 
-
-
-
-
 ```
 ### Основной функционал
  - Реализации оценки региона с точки зрения соответствия исходных критериев;
@@ -63,7 +59,16 @@ ML-->Регрессия;
 ![msql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+### Установка
+Для сбора датасета запустить файл:
+```
+py .\data_collector.py  
+```
+Для тестирования модели оценки запустить:
+```
+py .\model_loader.py
+```
 ### Ссылки на исходный код системных компонент
-- Серверная часть
-- Front-end web часть
+- [Серверная часть](https://github.com/iamelnik29/Healthy-City-Back/tree/main)
+- [Front-end web часть](https://github.com/Kaballiero/digital2023)
 - [UI/UX дизайн](https://www.figma.com/file/T0441FbXWMXjQ24HL5ZhTt/MLS(DBSFD)?type=design&node-id=0%3A1&mode=design&t=Ixji2eeGdy7GpLNj-1)
