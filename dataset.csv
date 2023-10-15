@@ -1,0 +1,51 @@
+,city,positive_count,green_zone,place,population,country,region,negative_count,main_city_count,average_distance,bad_dist_count,max_negative,max_main,max_positive
+0,Москва,4946,52241115.974336386,None,None,None,None,9471,983,,,cafe,kindergarten,playground
+1,Санкт-Петербург,1445,91788497.83758344,None,None,None,None,6556,810,,,cafe,kindergarten,playground
+2,Самара,133,9584253.512406655,village,508,None,None,483,129,,,fast_food,school,playground
+3,Красноярск,95,10326209.870659102,city,1092851,RU,Красноярский край,269,44,,,cafe,university,playground
+4,Воронеж,291,11950380.371073468,None,None,None,None,845,193,,,fast_food,school,playground
+5,Екатеринбург,436,56763982.9153802,city,1495066,RU,Свердловская область,1018,211,,,cafe,kindergarten,playground
+6,Омск,124,9333129.804763861,city,1125695,RU,Омская область,539,70,,,cafe,kindergarten,playground
+7,Краснодар,117,4110628.2028315375,city,948827,RU,Краснодарский край,875,56,,,fast_food,kindergarten,playground
+8,Пенза,125,6060400.626047163,city,None,None,None,272,42,,,cafe,kindergarten,playground
+9,Уфа,77,8242860.705630858,None,None,None,None,479,87,,,cafe,school,playground
+10,Ярославль,150,8011781.142331008,island,None,None,None,326,44,,,cafe,school,playground
+11,Волгоград,152,6684138.906531197,city,1004763,RU,Волгоградская область,546,102,,,cafe,kindergarten,playground
+12,Владивосток,56,780437.1792108986,city,600871,RU,Приморский край,485,51,,,cafe,kindergarten,firepit
+13,Хабаровск,53,4358494.1700353855,city,616372,RU,Хабаровский край,158,18,,,cafe,school,playground
+14,Иркутск,66,4918691.655237202,city,617515,RU,Иркутская область,316,69,,,cafe,kindergarten,playground
+15,Благовещенск,42,1728588.5164215926,city,225787,None,None,77,31,,,cafe,kindergarten,playground
+16,Новосибирск,442,12962394.136169085,city,1620162,RU,Новосибирская область,846,125,,,cafe,school,playground
+17,Кемерово,59,5018780.382960856,city,552546,RU,Кемеровская область,169,19,,,cafe,kindergarten,playground
+18,Тюмень,169,4385602.096995041,hamlet,2,RU,Пермский край,402,74,,,cafe,university,playground
+19,Томск,99,11564247.440089965,city,551505,RU,Томская область,390,75,,,cafe,kindergarten,playground
+20,Челябинск,112,20703052.9234624,city,1200719,RU,Челябинская область,440,64,,,cafe,driving_school,playground
+21,Барнаул,269,3216548.258888027,city,631124,RU,Алтайский край,274,40,,,fast_food,kindergarten,playground
+22,Нижний Новгород,277,2938798.8801621874,None,None,None,None,742,75,,,cafe,driving_school,playground
+23,Оренбург,46,3941330.101559531,None,None,None,None,195,55,,,cafe,university,fitness_centre
+24,Липецк,41,8829642.974211013,city,503216,RU,Липецкая область,192,29,,,cafe,school,playground
+25,Смоленск,45,3182750.6801654124,city,None,RU,Смоленская область,125,28,,,cafe,school,playground
+26,Саратов,125,2478870.4776261286,city,None,RU,Саратовская область,312,50,,,cafe,kindergarten,playground
+27,Казань,633,13339507.862804059,None,None,None,None,1304,172,,,cafe,driving_school,playground
+28,Ижевск,75,6494709.348300353,city,646468,RU,Удмуртия,263,20,,,cafe,school,playground
+29,Тверь,115,3743681.104859192,city,425000,RU,Тверская область,244,76,,,cafe,kindergarten,playground
+30,Киров,90,6454345.0703305,town,None,RU,Калужская область,175,28,,,cafe,school,playground
+31,Владикавказ,7,2642466.4777759337,None,None,None,None,98,10,,,cafe,school,playground
+32,Южно-Сахалинск,22,322395.5760236283,city,None,None,None,89,9,,,cafe,school,playground
+33,Кызыл,5,2106998.269657213,city,120067,None,None,14,1,,,cafe,school,playground
+34,Грозный,4,2535339.356902098,city,324602,None,None,110,20,,,cafe,kindergarten,fitness_centre
+35,Мурик,0,0.0,,,,,0,0,,,,,
+36,Чебоксары,81,801864.5898027095,hamlet,None,None,None,342,60,,,cafe,driving_school,playground
+37,Калининград,109,4381704.699464807,city,493256,None,Калининградская область,318,53,,,cafe,university,playground
+38,Астрахань,65,1211599.65511611,None,None,None,None,124,27,,,cafe,school,playground
+39,Петропавловск-Камчатский,12,273171.24068329786,city,None,RU,Камчатский край,84,21,,,cafe,kindergarten,firepit
+40,Ханты-Мансийск,6,165187.30178003942,city,None,None,None,68,6,,,cafe,driving_school,fitness_centre
+41,Пермь,127,5957541.8575443225,city,1034002,RU,Пермский край,507,81,,,cafe,college,playground
+42,Ростов-на-Дону,126,11377115.079114541,city,1114806,RU,Ростовская область,386,67,,,cafe,driving_school,playground
+43,Махачкала,42,1477848.4887765187,city,604266,RU,Дагестан,390,111,,,cafe,kindergarten,fitness_centre
+44,Сыктывкар,63,527978.3909202619,city,243536,None,None,96,17,,,cafe,university,playground
+45,Ульяновск,456,6479695.35176895,city,627705,RU,Ульяновская область,377,21,,,cafe,driving_school,playground
+46,Петрозаводск,108,3013077.9624668183,None,None,None,None,154,29,,,cafe,school,playground
+47,Армавир,7,1062103.2399659385,None,None,None,None,23,10,,,cafe,school,playground
+48,Тула,147,8924850.4077842,city,475161,RU,Тульская область,232,59,,,cafe,school,playground
+49,Владимир,94,734979.7594772401,village,899,None,None,325,90,,,cafe,driving_school,playground

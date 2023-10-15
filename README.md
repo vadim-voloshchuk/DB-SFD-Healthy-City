@@ -41,16 +41,13 @@ ML-->Регрессия;
 
 ```
 ### Основной функционал
+ - Реализации оценки региона с точки зрения соответствия исходных критериев;
+ - Предоставление рекомендаций путем варьирования исходных трех критериев.
 #### Используемые метрики для анализа
 ### Список открытых источников
 - Геоданные:
   - [OSM(Open Street Map)](https://www.openstreetmap.org/#map=3/69.62/-74.90)
-  - [Gismeteo](https://www.gismeteo.ru/api/)
-- Новостные ресурсы:
-  - [ВК API](https://vk.com/feed)
-  - [РИА](https://ria.ru/search/?query)
-  - [РБК](https://www.rbc.ru/tags/?tag=%D0%A0%D0%91%D0%9A)
-  - [RegRu](https://rg.ru/tema/ekonomika)
+  - РОССТАТ
 ### Использованные средства разработки
 #### IDE/IDLE
 - ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -67,8 +64,6 @@ ML-->Регрессия;
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 ### Ссылки на исходный код системных компонент
-- База данных
 - Серверная часть
 - Front-end web часть
-- Front-end mobile часть
 - [UI/UX дизайн](https://www.figma.com/file/T0441FbXWMXjQ24HL5ZhTt/MLS(DBSFD)?type=design&node-id=0%3A1&mode=design&t=Ixji2eeGdy7GpLNj-1)
